@@ -1,4 +1,4 @@
-# Informe Final: Predicción de Abandono de Clientes
+# Predicción de Abandono de Clientes
 
 ## 1. Introducción
 
