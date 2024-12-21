@@ -17,22 +17,22 @@ importantes.
 ## 2. Metodología
 
 El proyecto se desarrolló en varias etapas:
-    1. **Carga y exploración de Datos**:
-        - Inspección de valores nulos y outliers.
-        - Visualización de la distribución de la variable objetivo(Churn).
-    2. **Análisis Exploratorio de Datos (EDA)**:
-        - Análisis de correlación entre variables.
-        - Visualización de características relevantes para entender el comportamiento de los clientes.
-    3. **Preprocesamiento de Datos**:
-        - Codificación de variables categóricas.
-        - Normalización de características numéricas.
-        - Manejo de desequilibrios en las clases con técnicas como SMOTE.
-    4. **Construcción y Evaluación de modelos**:
-        - Pruebas iniciales con modelos de regresión logística, árboles de decisión y Random Forest.
-        - Optimización del modelo Random Forest con GridSearchCV.
-        - Evaluación basada en métricas como precisión, recall y F1-score.
-    5. **Importancia de Características**:
-        - Análisis de las características más relevantes para la predicción.
+1. **Carga y exploración de Datos**:
+    - Inspección de valores nulos y outliers.
+    - Visualización de la distribución de la variable objetivo(Churn).
+2. **Análisis Exploratorio de Datos (EDA)**:
+    - Análisis de correlación entre variables.
+    - Visualización de características relevantes para entender el comportamiento de los clientes.
+3. **Preprocesamiento de Datos**:
+    - Codificación de variables categóricas.
+    - Normalización de características numéricas.
+    - Manejo de desequilibrios en las clases con técnicas como SMOTE.
+4. **Construcción y Evaluación de modelos**:
+    - Pruebas iniciales con modelos de regresión logística, árboles de decisión y Random Forest.
+    - Optimización del modelo Random Forest con GridSearchCV.
+    - Evaluación basada en métricas como precisión, recall y F1-score.
+5. **Importancia de Características**:
+    - Análisis de las características más relevantes para la predicción.
 
 ## 3. Resultados
 
